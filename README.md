@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey there! 👋
 
 <!--
 **vvvuPurdue/vvvuPurdue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Welcome to my student account, which I use for Purdue classes and clubs.
+
+My name's Vincent Vu and I'm currently a computer science student at Purdue University.
+
+- :briefcase: [Connect with me on LinkedIn](https://www.linkedin.com/in/vincent-v-vu/)
+- :octocat: [View my personal GitHub](https://www.github.com/viv2061)
