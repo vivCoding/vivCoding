@@ -18,5 +18,7 @@ Welcome to my student account, which I use for Purdue classes and clubs.
 
 My name's Vincent Vu and I'm currently a computer science student at Purdue University.
 
+Currently, I develop for @Hack-the-Future and @purdue-arc
+
 - :briefcase: [Connect with me on LinkedIn](https://www.linkedin.com/in/vincent-v-vu/)
 - :octocat: [View my personal GitHub](https://www.github.com/viv2061)
