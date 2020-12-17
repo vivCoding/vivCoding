@@ -21,3 +21,4 @@ My name is Vincent Vu and I'm currently a computer science student at Purdue Uni
 Currently, I develop for [**@Hack-the-Future**](https://github.com/Hack-the-Future) and [**@purdue-arc**](https://github.com/purdue-arc)
 
 - :briefcase: [Connect with me on LinkedIn](https://www.linkedin.com/in/vincent-v-vu/)
+- :globe_with_meridians: [View my website](https://vvvupurdue.github.io/personal/)
