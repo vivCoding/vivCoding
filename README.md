@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 Welcome to my student account, which I use for Purdue classes and clubs.
 
-My name's Vincent Vu and I'm currently a computer science student at Purdue University.
+My name is Vincent V. and I'm currently a computer science student at Purdue University.
 
 Currently, I develop for [**@Hack-the-Future**](https://github.com/Hack-the-Future) and [**@purdue-arc**](https://github.com/purdue-arc)
 
