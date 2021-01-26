@@ -23,7 +23,11 @@ Currently, I develop for [**@Hack-the-Future**](https://github.com/Hack-the-Futu
 - :briefcase: [Connect with me on LinkedIn](https://www.linkedin.com/in/vincent-v-vu/)
 - :globe_with_meridians: [View my website](https://vivCoding.github.io/personal/)
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=vivCoding&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/vivCoding/github-readme-stats)
 
+<a href="https://github.com/vivCoding/github-readme-stats">
+ <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=vivCoding&count_private=true&show_icons=true&theme=tokyonight&layout=compact"/>
+</a>
 
-[![My GitHub Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vivCoding&count_private=true&show_icons=true&theme=tokyonight&layout=compact)](https://github.com/vivCoding/github-readme-stats)
+<a href="https://github.com/vivCoding/github-readme-stats">
+ <img src = "https://github-readme-stats.vercel.app/api?username=vivCoding&count_private=true&show_icons=true&theme=tokyonight"/>
+</a>
