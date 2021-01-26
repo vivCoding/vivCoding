@@ -26,4 +26,4 @@ Currently, I develop for [**@Hack-the-Future**](https://github.com/Hack-the-Futu
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=vivCoding&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/vivCoding/github-readme-stats)
 
 
-[![My GitHub Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vivCoding&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/vivCoding/github-readme-stats)
+[![My GitHub Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vivCoding&count_private=true&show_icons=true&theme=tokyonight&layout=compact)](https://github.com/vivCoding/github-readme-stats)
