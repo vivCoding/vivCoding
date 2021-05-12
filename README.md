@@ -14,9 +14,10 @@ Here are some ideas to get you started:
 -->
 ### Hey there! 👋
 
-Welcome to my GitHub account!
+I'm currently a computer science student at Purdue University.
 
-My name is Vincent Vu and I'm currently a computer science student at Purdue University.
+My current favorite sorting algorithm is the [bogobogosort](https://www.dangermouse.net/esoteric/bogobogosort.html). I enjoy its efficiency.
+
 
 
 <a href="https://github.com/vivCoding/github-readme-stats">
