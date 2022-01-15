@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 I'm currently a computer science student at Purdue University.
 
-My current favorite sorting algorithm is the [bogobogosort](https://www.dangermouse.net/esoteric/bogobogosort.html). I enjoy its efficiency.
+My current favorite sorting algorithm is [bogosort](https://en.wikipedia.org/wiki/Bogosort). I enjoy its efficiency.
 
 
 
